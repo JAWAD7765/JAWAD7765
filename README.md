@@ -28,6 +28,12 @@
 &#x20; \<i>"It's not who I am underneath, but what I do that defines me."\</i>
 \</p>
 
+<p align="center">
+  <img src="https://gif-avatars.com/img/150x150/batman.gif"
+       width="150"
+       alt="Batman animated GIF">
+</p>
+
 
 <!--
 **JAWAD7765/JAWAD7765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
